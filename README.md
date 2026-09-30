@@ -52,7 +52,12 @@
 
 ---
 
-#### Acknowledgement
 
-> [Belief Projection-based Q-learning](https://github.com/jangwonkim-cocel/BPQL)  
-> [Deep Homomorphic Policy Gradient](https://github.com/sahandrez/homomorphic_policy_gradient)  
+#### Citation
+
+    @article{lee2026delayed,
+      title={Delayed homomorphic reinforcement learning for environments with delayed feedback},
+      author={Lee, Jongsoo and Kim, Jangwon and Han, Soohee},
+      journal={arXiv preprint arXiv:2604.03641},
+      year={2026}
+    }
