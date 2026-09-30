@@ -12,7 +12,7 @@
 
 ---
 
-> PyTorch implementation of Deep Delayed Homomorphic Policy Gradient  
+> PyTorch implementation of deep delayed homomorphic policy gradient algorithm
 > Paper link: https://arxiv.org/abs/2604.03641
 
 ---
