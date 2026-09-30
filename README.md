@@ -1,4 +1,10 @@
-### (NeurIPS 2026) Delayed Homomorphic Reinforcement Learning for Environments with Delayed Feedback
+### Delayed Homomorphic Reinforcement Learning for Environments with Delayed Feedback
+
+[![Python Badge](https://img.shields.io/badge/Python-3.8-blue?logo=python&style=flat-square)](https://www.python.org/)
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-2.0.0-%23EE4C2C?logo=pytorch&style=flat-square)](https://pytorch.org/)
+[![NeurIPS 2026 Badge](https://img.shields.io/badge/NeurIPS%202026-Paper-%23007ACC?style=flat-square)](https://arxiv.org/abs/2604.03641)
+
+![NeurIPS Logo](figures/neurips_logo.png)
 
 > PyTorch implementation of Deep Delayed Homomorphic Policy Gradient  
 > Paper link: https://arxiv.org/abs/2604.03641
