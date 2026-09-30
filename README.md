@@ -16,9 +16,6 @@ Reinforcement learning in real-world systems often involves delayed feedback, wh
 
 > Paper link: https://arxiv.org/abs/2604.03641
 
- <p align="center">
-  <img src="figures/framework1.png" alt="framework" width="300">
- </p>
 
 ---
 
