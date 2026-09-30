@@ -1,10 +1,16 @@
-### Delayed Homomorphic Reinforcement Learning for Environments with Delayed Feedback
+<h3 align="center">Delayed Homomorphic Reinforcement Learning for Environments with Delayed Feedback</h3>
 
-[![Python Badge](https://img.shields.io/badge/Python-3.8-blue?logo=python&style=flat-square)](https://www.python.org/)
-[![PyTorch Badge](https://img.shields.io/badge/PyTorch-2.0.0-%23EE4C2C?logo=pytorch&style=flat-square)](https://pytorch.org/)
-[![NeurIPS 2026 Badge](https://img.shields.io/badge/NeurIPS%202026-Paper-%23007ACC?style=flat-square)](https://arxiv.org/abs/2604.03641)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8-blue?logo=python&style=flat-square" alt="Python Badge"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.0.0-%23EE4C2C?logo=pytorch&style=flat-square" alt="PyTorch Badge"></a>
+  <a href="https://arxiv.org/abs/2604.03641"><img src="https://img.shields.io/badge/NeurIPS%202026-Paper-%23007ACC?style=flat-square" alt="NeurIPS 2026 Badge"></a>
+</p>
 
-![NeurIPS Logo](figures/neurips_logo.png)
+<p align="center">
+  <img src="figures/neurips_logo.png" alt="NeurIPS Logo" width="300">
+</p>
+
+---
 
 > PyTorch implementation of Deep Delayed Homomorphic Policy Gradient  
 > Paper link: https://arxiv.org/abs/2604.03641
