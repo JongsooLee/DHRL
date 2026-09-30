@@ -27,7 +27,7 @@ Reinforcement learning in real-world systems often involves delayed feedback, wh
     ├── main.py                  # Entry point & arguments
     ├── trainer.py               # Training / evaluation loop in delayed environments
     ├── wrapper.py               # Delayed environment wrapper (observation / action delay)
-    ├── core.py                  # Actor, critic, homomorphism map, abstract models
+    ├── core.py                  # Actor, critic, homomorphism components
     ├── replay_memory.py         # Replay buffer (augmented & time-aligned transitions)
     ├── temporary_buffer.py      # Per-episode buffer to build augmented states
     ├── utils.py                 # Seeding, logging, etc
