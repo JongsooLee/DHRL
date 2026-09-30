@@ -48,7 +48,7 @@
 
 #### Runs
 
-> python main.py --env-name HalfCheetah-v3 --obs-delayed-steps 10 --agent-type bpql --random-seed 1 --num-trials 5 --max-step 1000000
+    python main.py --env-name HalfCheetah-v3 --obs-delayed-steps 10 --agent-type bpql --random-seed 1 --num-trials 5 --max-step 1000000
 
 ---
 
