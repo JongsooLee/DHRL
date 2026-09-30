@@ -14,14 +14,13 @@
 
 Reinforcement learning in real-world systems often involves delayed feedback, which violates the Markov assumption and impedes both learning and control. Canonical augmentation-based approaches address this issue by augmenting the state with action histories, but suffer from state-space explosion and the resulting sample-complexity burden. Delayed Homomorphic Reinforcement Learning (DHRL) is a framework grounded in MDP homomorphisms that identifies and collapses control-redundant augmented states into a compact abstract state space, providing a unified abstraction mechanism for both the actor and critic. Deep Delayed Homomorphic Policy Gradient (D²HPG) is a deep actor-critic instantiation of the DHRL framework for continuous domains.
 
----
-
-> PyTorch implementation of deep delayed homomorphic policy gradient algorithm  
 > Paper link: https://arxiv.org/abs/2604.03641
-
+ 
 ---
 
 #### Project structure
+
+> PyTorch implementation of deep delayed homomorphic policy gradient algorithm
 
     .
     ├── main.py                  # Entry point & arguments
