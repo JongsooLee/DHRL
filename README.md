@@ -15,7 +15,11 @@
 Reinforcement learning in real-world systems often involves delayed feedback, which violates the Markov assumption and impedes both learning and control. Canonical augmentation-based approaches address this issue by augmenting the state with action histories, but suffer from state-space explosion and the resulting sample-complexity burden. Delayed Homomorphic Reinforcement Learning (DHRL) is a framework grounded in MDP homomorphisms that identifies and collapses control-redundant augmented states into a compact abstract state space, providing a unified abstraction mechanism for both the actor and critic. Deep Delayed Homomorphic Policy Gradient (D²HPG) is a deep actor-critic instantiation of the DHRL framework for continuous domains, outperforming the state-of-the-art augmentation-based bsaelines.
 
 > Paper link: https://arxiv.org/abs/2604.03641
- 
+
+ <p align="center">
+  <img src="figures/framework1.png" alt="framework" width="300">
+ </p>
+
 ---
 
 #### Project structure
